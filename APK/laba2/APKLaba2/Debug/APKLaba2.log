@@ -1,0 +1,3 @@
+﻿  APKLaba2.cpp
+D:\APK\APKLaba2\APKLaba2\APKLaba2.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  APKLaba2.vcxproj -> D:\APK\APKLaba2\Debug\APKLaba2.exe
